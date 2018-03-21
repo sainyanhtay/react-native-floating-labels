@@ -15,7 +15,8 @@
     "android"
   ],
   "dependencies": {
-    "lodash": "^3.8.0"
+    "lodash": "^3.8.0",
+    "prop-types": "^15.5.7" 
   },
   "scripts": {
     "test": "echo 'Success'"
